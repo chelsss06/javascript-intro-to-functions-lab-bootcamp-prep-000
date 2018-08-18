@@ -28,13 +28,13 @@ function sayHiToGrandma(string) {
   mixedCase.toUpperCase() === mixedCase
   
   if (string === lowercase) {
-    return("I can't hear you!")
+    return('I can't hear you!')
   } else {
     console.log("I love you, too.")
   }
   
   if (string === uppercase) {
-    return("YES INDEED!")
+    return('YES INDEED!')
   } else {
     return("I love you, too.")
   }
