@@ -30,13 +30,13 @@ function sayHiToGrandma(string) {
   if (string === lowercase) {
     return("I can't hear you!")
   } else {
-    return("I love you, too.")
+    console.log("I love you, too.")
   }
   
   if (string === uppercase) {
     return("YES INDEED!")
   } else {
-    return("I love you, too.")
+    console.log("I love you, too.")
   }
   
 }
